@@ -15,17 +15,20 @@ MonoBehaviour:
   storyText: 'Festers. Everywhere. Armed mostly with gas-powered rock flingers. At
     least 10 of them guarding the hanger door. Typical.
 
-    
+
 
     Could try punching
     my way through. Or sneaking the long way to the emergency exit.
 
-    
 
-    What
-    should I do?
+
+    What should
+    I do?
 
     1. Take them head on - rush the 10 guards.
 
-    2. Sneak
-    my way to the emergency exit.'
+    2. Sneak my way to
+    the emergency exit.'
+  nextStates:
+  - {fileID: 11400000, guid: 06209de59fdc3a6448c78085064f4caa, type: 2}
+  - {fileID: 11400000, guid: e26b34c065d84ea47b8b43603225a1ba, type: 2}
