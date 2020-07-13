@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 78355d5b6f5384c4faddc5bd60178495, type: 3}
-  m_Name: B2
+  m_Name: B2.Booby Trap
   m_EditorClassIdentifier: 
   storyText: 'You stand up, a little groggily, back up to the far edge of the wall
     and make an almighty sprint towards the door.

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 78355d5b6f5384c4faddc5bd60178495, type: 3}
-  m_Name: B3
+  m_Name: B3. Escape
   m_EditorClassIdentifier: 
   storyText: "The door opens and then... nothing. You peak outside and there is nobody
     there. \r\n\r\nWell, thats odd.\r\n\r\nHave you just been freed? And by whom?

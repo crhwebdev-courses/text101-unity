@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 78355d5b6f5384c4faddc5bd60178495, type: 3}
-  m_Name: B1
+  m_Name: B1.Opening Door
   m_EditorClassIdentifier: 
   storyText: 'You wait it out. After, perhaps, 20 minutes you hear feet shuffling.
     Keys jangle. The door starts to unlock.

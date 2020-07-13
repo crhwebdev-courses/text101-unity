@@ -24,6 +24,9 @@ MonoBehaviour:
 
 
     At any point in time, push "q"
-    to quit.'
+    to quit.
+
+
+    Press 1 to continue.'
   nextStates:
   - {fileID: 11400000, guid: 8c3d2b1a33d837f47bd41bdd0da97ad0, type: 2}
