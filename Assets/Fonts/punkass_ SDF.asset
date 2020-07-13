@@ -1961,10 +1961,10 @@ Material:
     - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
     - _EnvMatrixRotation: {r: 0, g: 0, b: 0, a: 0}
     - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
-    - _GlowColor: {r: 0.8824666, g: 0.9433962, b: 0.31594875, a: 0.5}
+    - _GlowColor: {r: 0.17254902, g: 0.2, b: 0.34901962, a: 0.5}
     - _MaskCoord: {r: 0, g: 0, b: 32767, a: 32767}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SpecularColor: {r: 0.9811321, g: 0.9811321, b: 0.9765041, a: 1}
+    - _SpecularColor: {r: 0.5019608, g: 0.5176471, b: 0.54901963, a: 1}
     - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
